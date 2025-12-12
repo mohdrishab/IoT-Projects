@@ -21,5 +21,4 @@ See circuit-diagrams/ folder.
 ## Code
 See code/esp32_main.ino
 
-## Postman Test
-See postman-tests/supabase_test.json
+
