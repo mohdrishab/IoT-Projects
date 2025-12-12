@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.DS_Store
+.vscode/
+.idea/
+*.bak
+*.swp
+*/build/
+*.hex
+*.elf
